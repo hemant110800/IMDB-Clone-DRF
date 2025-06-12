@@ -1,6 +1,7 @@
 # IMDB API Clone With DRF
 
 #TOPICS COVERED
+<br>
 <b>🎥 Understanding REST API</b>
 <br>
 
